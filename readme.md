@@ -29,3 +29,5 @@ This project was fun to make in one semester! We have stopped working on the app
 -   Style isnt fully uniform.
 -   Not very much button feedback (ex. when creating a post you need to refresh to see the new post).
 -   Very rarely, posts will not load for some reason.
+
+test
